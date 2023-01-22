@@ -1,4 +1,4 @@
-# Deep_Learning_Project_for_the_Recognition_of_Acute_Stroke_Patient_Face-
+# DeepLearning Project for the Recognition of Acute Stroke Patient Face
 Acute Stroke Prediction with Facial Images 
 #About the Project
 The Deep Learning Model used in this dataset utilizes data augmentation techniques on images to improve the overall accuracy of the model. 
